@@ -1,0 +1,11 @@
+pandas
+numpy
+dash
+ipykernel
+streamlit_option_menu
+matplotlib
+scikit-learn
+statsmodels
+plotly
+streamlit
+seaborn
